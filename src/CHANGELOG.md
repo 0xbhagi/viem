@@ -1,5 +1,11 @@
 # viem
 
+## 1.16.5
+
+### Patch Changes
+
+- [#1339](https://github.com/wagmi-dev/viem/pull/1339) [`b7ddaf61`](https://github.com/wagmi-dev/viem/commit/b7ddaf61d6a392a8fa6f4550afa505f75c31eca4) Thanks [@jxom](https://github.com/jxom)! - Fixed topics mismatch in `decodeEventLogs` strict mode.
+
 ## 1.16.4
 
 ### Patch Changes
